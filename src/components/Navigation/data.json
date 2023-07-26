@@ -1,0 +1,10 @@
+{
+  "links": [
+    { "id": 1, "text": "Rates Evolution", "url": "#" },
+    { "id": 2, "text": "Convertor", "url": "#" },
+    { "id": 3, "text": "Exchange rates", "url": "#" },
+    { "id": 4, "text": "Banks", "url": "#" },
+    { "id": 5, "text": "Exchange offices", "url": "#" },
+    { "id": 6, "text": "Currencies", "url": "#" }
+  ]
+}
