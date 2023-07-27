@@ -1,0 +1,113 @@
+{
+    "stockData":[
+        {
+        "id": 1,
+        "simbol": "Simbol",
+        "denumire": "Denumirea Valutei",
+        "cotatie": "Cotatie",
+        "variatie": "Variatie",
+        "procente": "Variatie %",
+        "actual": "25.07.2023",
+        "precedent": "17.07.2023"
+      },
+      {
+        "id": 2,
+        "simbol": "USD",
+        "flag": "https://www.curs.md/images/flags/usd.gif",
+        "denumire": "Dolar American",
+        "cotatie": "17.6181",
+        "variatie": "-0.2161",
+        "procente": "-1.2117",
+        "actual": "17.8342",
+        "precedent": "17.9185"
+      },
+      {
+        "id": 3,
+        "simbol": "EUR",
+        "flag": "https://www.curs.md/images/flags/eur.gif",
+        "denumire": "EURO",
+        "cotatie": "19.7623",
+        "variatie": "-0.3118",
+        "procente": "-1.5532",
+        "actual": "20.0741",
+        "precedent": "20.1261"
+      },
+      {
+        "id": 4,
+        "simbol": "RUB",
+        "flag": "https://www.curs.md/images/flags/rub.gif",
+        "denumire": "Rubla Ruseasca",
+        "cotatie": "0.1935",
+        "variatie": "-0.0034",
+        "procente": "-1.7268",
+        "actual": "0.1969",
+        "precedent": "0.1983"
+      },
+      {
+        "id": "5",
+        "simbol": "RON",
+        "flag": "https://www.curs.md/images/flags/ron.gif",
+        "denumire": "Leu Romanesc",
+        "cotatie": "3.9949",
+        "variatie": "-0.0707",
+        "procente": "-1.7390",
+        "actual": "4.0656",
+        "precedent": "4.0732"
+      },
+      {
+        "id": "6",
+        "simbol": "UAH",
+        "flag": "https://www.curs.md/images/flags/uah.gif",
+        "denumire": "Hrivna Ucraineana",
+        "cotatie": "0.4770",
+        "variatie": "-0.0059",
+        "procente": "-1.2218",
+        "actual": "0.4829",
+        "precedent": "0.4852"
+      },
+      {
+        "id": "7",
+        "simbol": "CAD",
+        "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.9.0/flags/4x3/ca.svg",
+        "denumire": "Dolar Canadian",
+        "cotatie": "13.3663",
+        "variatie": "-0.1414",
+        "procente": "-1.0468",
+        "actual": "13.5077",
+        "precedent": "13.5505"
+      },
+      {
+        "id": "8",
+        "simbol": "CHF",
+        "flag": "https://www.cursvalutar.ro/images/chf.jpg",
+        "denumire": "Frank Elvetian",
+        "cotatie": "20.5172",
+        "variatie": "-0.2734",
+        "procente": "-1.0468",
+        "actual": "20.7906",
+        "precedent": "20.8573"
+      },
+      {
+        "id": "9",
+        "simbol": "CZK",
+        "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.9.0/flags/4x3/cz.svg",
+        "denumire": "Coroana ceha",
+        "cotatie": "0.8256",
+        "variatie": "-0.0194",
+        "procente": "-2.2959",
+        "actual": "0.8450",
+        "precedent": "0.8471"
+      },
+      {
+        "id": "10",
+        "simbol": "BGN",
+        "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.9.0/flags/4x3/bg.svg",
+        "denumire": "Leva bulgara",
+        "cotatie": "10.1047",
+        "variatie": "-0.1584",
+        "procente": "-1.5434",
+        "actual": "10.2631",
+        "precedent": "10.2906"
+      }
+    ]
+}

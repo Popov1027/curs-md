@@ -1,0 +1,93 @@
+.bankValute{
+  position: relative;
+  width: 70%;
+  height: 600px;
+  border: 2px solid black;
+  margin: 20px;
+  margin-left: 100px;
+}
+h1{
+  padding: 5px 0 0 80px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.subtitle{
+  padding: 10px 0 0 90px;
+}
+.input-group-date{
+  padding: 0 10px 0 10px;
+}
+.form-control{
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 120px;
+  text-align: center;
+}
+.input-group-btn{
+  padding: 0 10px 0 10px;
+}
+/* Table.css */
+.table-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+  max-width: auto;
+  margin: 0 auto;
+}
+
+.table-header {
+  display: flex;
+  background-color: #f0f0f0;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc; /* Despartitura orizontală pentru antet */
+}
+
+.table-row {
+  display: flex;
+  border-top: 1px solid #ccc; /* Despartitura orizontală pentru rânduri */
+}
+
+.even-row {
+  background-color: #f9f9f9; /* Stilizare pentru rândurile pare */
+}
+
+.odd-row {
+  background-color: #ffffff; /* Stilizare pentru rândurile impare */
+}
+
+.header-item,
+.row-item {
+  flex: 1;
+  padding: 8px;
+  border-right: 1px solid #ccc; /* Despartitura verticală pentru coloane */
+}
+.header-name{
+  flex: 1;
+  padding: 8px;
+  border-right: 1px solid #ccc;
+  color: orange;
+}
+
+/* Stilizare pentru ultima celulă din rânduri, să nu aibă despartitura dreapta */
+.row-item:last-child {
+  border-right: none;
+}
+.btn{
+  width: 70px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  outline: none;
+  background-color: rgb(199, 187, 24);
+  text-align: inherit;
+  border: 1px solid black;
+  border-radius: 20px;
+  text-align: center;
+}
+.table-value {
+  display: flex;
+  background-color: white;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+}
