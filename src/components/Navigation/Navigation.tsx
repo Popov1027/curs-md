@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Home from '../../assets/images/home.svg';
-import logoCurs from '../../assets/images/logo.png';
-import HomeMenu from '../../assets/images/logo-inv.png';
+import Home from '../../assets/img/home.svg';
+import logoCurs from '../../assets/img/logo.png';
+import HomeMenu from '../../assets/img/logo-inv.png';
 import data from './data.json';
 
 const Navbar = () => {
